@@ -34,4 +34,9 @@ public class Staff extends Employee {
 		this.Title = Title;
 	}
 
+	public static void add(Staff Samantha) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
